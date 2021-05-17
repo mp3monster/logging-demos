@@ -1,0 +1,570 @@
+{"source":"basicFile", "event":"The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.", "cycle":1}
+{"source":"basicFile", "event":"I changed my password to incorrect. So whenever I forget what it is the computer will say Your password is incorrect", "cycle":1}
+{"source":"basicFile", "event":"Question What do you call the security people outside of a Samsung Store? Answer Guardians of the Galaxy", "cycle":1}
+{"source":"basicFile", "event":"Maybe if we start telling people the brain is an app they will start using it.", "cycle":1}
+{"source":"basicFile", "event":"I think my neighbor is stalking me as she has been googling my name on her computer. I saw it through my telescope last night.", "cycle":1}
+{"source":"basicFile", "event":"A clean house is the sign of a broken computer", "cycle":1}
+{"source":"basicFile", "event":"I wonder what my parents did to fight boredom before the internet. I asked my 17 brothers and sisters and they didnt know either.", "cycle":1}
+{"source":"basicFile", "event":"A computer once beat me at chess, but it was no match for me at kick boxing", "cycle":1}
+{"source":"basicFile", "event":"Entered what I ate today into my new fitness app and it just sent an ambulance to my house", "cycle":1}
+{"source":"basicFile", "event":"My mom said that if I dont get off my computer and do my homework shell slam my head on the keyboard, but I think shes jokinfjreoiwjrtwe4to8rkljreun8f4ny84c8y4t58lym4wthylmhawt4mylt4amlathnatyn", "cycle":1}
+{"source":"basicFile", "event":"My email password has been hacked. Thats the third time Ive had to rename my pet", "cycle":1}
+{"source":"basicFile", "event":"Remember the time when emojis were called hieroglyphics?", "cycle":1}
+{"source":"basicFile", "event":"Writing a horror screenplay. It starts off with a ringing phone. The person answers, and its their mum saying I have a computer question.", "cycle":1}
+{"source":"basicFile", "event":"The first time I got a universal remote control, I thought to myself This changes everything", "cycle":1}
+{"source":"basicFile", "event":"Is your name Wi-Fi? Because Im feeling a connection", "cycle":1}
+{"source":"basicFile", "event":"Google is definitely a woman, it starts suggesting things before you can even finish your sentence", "cycle":1}
+{"source":"basicFile", "event":"I tried to escape the Apple store. I couldnt because there were no Windows", "cycle":1}
+{"source":"basicFile", "event":"My computers got Miley Virus. It has stopped twerking.", "cycle":1}
+{"source":"basicFile", "event":"Failure is not an option - it comes bundled with the software.", "cycle":1}
+{"source":"basicFile", "event":"If Bill Gates had a penny for every time I had to reboot my computer ...oh wait, he does.", "cycle":1}
+{"source":"basicFile", "event":"Give a Nigerian a fish hell eat for a day. Teach a Nigerian to phish and hell become a prince and start e-mailing people.", "cycle":1}
+{"source":"basicFile", "event":"I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.", "cycle":1}
+{"source":"basicFile", "event":"I Googled how to start a wildfire. I got 48,500 matches.", "cycle":1}
+{"source":"basicFile", "event":"Cats spend two thirds of their lives sleeping, and the other third making viral videos.", "cycle":1}
+{"source":"basicFile", "event":"Yesterday I decided to change my WiFi name to Hack me if you can and when I woke up this morning I saw the name changed to Challenge accepted somebody help.", "cycle":1}
+{"source":"basicFile", "event":"My ex and I had a very amicable divorce. I know this because when I wrote the Facebook status Im getting a divorce, he was the first one to click Like.", "cycle":1}
+{"source":"basicFile", "event":"Youd think that with NSA reading our tweets all the time, they could star or retweet some of the good ones.", "cycle":1}
+{"source":"basicFile", "event":"If a dog was a computer, would its bark be bigger than its byte?", "cycle":1}
+{"source":"basicFile", "event":"I never ask my kids to call me, I just change the Netflix password and then dont respond to their texts.", "cycle":1}
+{"source":"basicFile", "event":"Apple should make a sarcasm font and call it the iRoll.", "cycle":1}
+{"source":"basicFile", "event":"I was going to be a computer forensics expert, but couldnt hack IT.", "cycle":1}
+{"source":"basicFile", "event":"Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.", "cycle":1}
+{"source":"basicFile", "event":"What is an astronauts favorite place on a computer? The Space bar!", "cycle":1}
+{"source":"basicFile", "event":"What happens when a Buddhist becomes totally absorbed with the computer he is working with? He enters Nerdvana.", "cycle":1}
+{"source":"basicFile", "event":"Wikepedia: I know everything Facebook: I know everyone Google: I have everything Internet: You would be nothing without me Electricity: Keep talking bitches!", "cycle":1}
+{"source":"basicFile", "event":"Heres a picture of me with REM. Thats me in the corner", "cycle":1}
+{"source":"basicFile", "event":"My mother told me, you dont have to put anything in your mouth you dont want to. Then she made me eat broccoli, which felt like double standards", "cycle":1}
+{"source":"basicFile", "event":"Four fonts walk into a bar. The barman says: Oi - get out. We dont want your type in here", "cycle":1}
+{"source":"basicFile", "event":"I went to buy camouflage trousers but I couldnt find any", "cycle":1}
+{"source":"basicFile", "event":"Im on a whisky diet. Ive lost three days already.", "cycle":1}
+{"source":"basicFile", "event":"Im a big fan of whiteboards. I find them quite re-markable.", "cycle":1}
+{"source":"basicFile", "event":"Im reading a horror story in Braille. Something bad is about to happen I can feel it.", "cycle":1}
+{"source":"basicFile", "event":"Did you hear about the kidnapping at school? Its okay. He woke up.", "cycle":1}
+{"source":"basicFile", "event":"What do you call a pig that knows karate? A pork chop!", "cycle":1}
+{"source":"basicFile", "event":"The problem isnt that obesity runs in your family. The problem is no one runs in your family", "cycle":1}
+{"source":"basicFile", "event":"I tried to change my password to penis but they said it was too short.", "cycle":1}
+{"source":"basicFile", "event":"The problem with kleptomaniacs is that they always take things literally", "cycle":1}
+{"source":"basicFile", "event":"I realised I was dyslexic when I went to a toga party dressed as a goat", "cycle":1}
+{"source":"basicFile", "event":"A dyslexic man walks into a bra", "cycle":1}
+{"source":"basicFile", "event":"The truth is out there. Anybody got the URL", "cycle":1}
+{"source":"basicFile", "event":"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity", "cycle":1}
+{"source":"basicFile", "event":"Unix is user friendly. Its just selective about who its friends are", "cycle":1}
+{"source":"basicFile", "event":"My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep", "cycle":1}
+{"source":"basicFile", "event":"My software never has bugs. It just develops random features.", "cycle":1}
+{"source":"basicFile", "event":"I would love to change the world, but they wont give me the source code.", "cycle":1}
+{"source":"basicFile", "event":"Beware of programmers that carry screwdrivers.", "cycle":1}
+{"source":"basicFile", "event":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.", "cycle":1}
+{"source":"basicFile", "event":"The beginning of the programmers wisdom is understanding the difference between getting program to run and having a runnable program.", "cycle":1}
+{"source":"basicFile", "event":"If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.", "cycle":1}
+{"source":"basicFile", "event":"Black holes are where God divided by zero.", "cycle":1}
+{"source":"basicFile", "event":"If brute force doesnt solve your problems, then you arent using enough.", "cycle":1}
+{"source":"basicFile", "event":"There are three kinds of people: those who can count and those who cant.", "cycle":1}
+{"source":"basicFile", "event":"Romantic relationships can actually be represented in algebra. You for example, have definitely at some point looked at your X and asked yourself Y.", "cycle":1}
+{"source":"basicFile", "event":"My iPod is in Titanic mode right now. It is syncing.", "cycle":1}
+{"source":"basicFile", "event":"A programmer gets shopping instructions from his wife: Go buy a cauliflower. If they have oranges, get two dozens. He comes home with 24 cauliflowers.", "cycle":1}
+{"source":"basicFile", "event":"How can you tell a programmer is an extrovert? When youre talking to him, hes looking at your shoes.", "cycle":1}
+{"source":"basicFile", "event":"College is really just kidnapping done backwards. If you dont give us a ridiculously large amount of money, well send you your child back.", "cycle":1}
+{"source":"basicFile", "event":"An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?", "cycle":1}
+{"source":"basicFile", "event":"A cop pulls over Werner Heisenberg and says, Sir, do you know how fast you were going? Heisenberg responds, NO, but I know EXACTLY where I am.", "cycle":1}
+{"source":"basicFile", "event":"I just got fired from my job at the keyboard factory. They told me I wasnt putting in enough shifts.", "cycle":1}
+{"source":"basicFile", "event":"Have you heard of that new band 1023 Megabytes? Theyre pretty good, but they dont have a gig just yet.", "cycle":1}
+{"source":"basicFile", "event":"Question Why did the computer show up at work late? Answer It had a ?hard drive.", "cycle":1}
+{"source":"basicFile", "event":"I saw a driver texting and driving. It made me so mad I threw my beer at him.", "cycle":1}
+{"source":"basicFile", "event":"The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.", "cycle":1}
+{"source":"basicFile", "event":"I started a band called 999 megabytes we still havent gotten a gig", "cycle":1}
+{"source":"basicFile", "event":"I saw a sign that said watch for children and I thought, That sounds like a fair trade", "cycle":1}
+{"source":"basicFile", "event":"A photon walks into a hotel. The bellhop asks if he needs help with his bags. The photon replies, No thanks, Im travelling light.", "cycle":1}
+{"source":"basicFile", "event":"Its hard to explain puns to kleptomaniacs because they always take things literally.", "cycle":1}
+{"source":"basicFile", "event":"I asked my North Korean friend how it was there, he said he couldnt complain.", "cycle":1}
+{"source":"basicFile", "event":"Parallel lines have so much in common but its a shame theyll never meet.", "cycle":1}
+{"source":"basicFile", "event":"How did we know communism was doomed from the beginning? All the red flags.", "cycle":1}
+{"source":"basicFile", "event":"I would tell you a joke about UDP, but you might not get it.", "cycle":1}
+{"source":"basicFile", "event":"Im going to keep telling you this TCP joke until you get it.", "cycle":1}
+{"source":"basicFile", "event":"Alcoholics dont run in my family - they mostly stumble around and bump into things.", "cycle":1}
+{"source":"basicFile", "event":"A bipartisan bill legalizing medical marijuana for use in alleviating symptoms of arthritis would be joint support for joint support for joint support.", "cycle":1}
+{"source":"basicFile", "event":"I heard that Amazons offering a service that crowdsources teaching how to dance, and theyre calling it Mechanical Twerk.", "cycle":1}
+{"source":"basicFile", "event":"When the two musicians got an apartment together, they ended up composing a Romance in A Flat.", "cycle":1}
+{"source":"basicFile", "event":"I made a new word up! Its Plagiarism.", "cycle":1}
+{"source":"basicFile", "event":"I for one like roman numerals.", "cycle":1}
+{"source":"basicFile", "event":"Most people are shocked when they find out how incompetent I am as an electrician.", "cycle":1}
+{"source":"basicFile", "event":"If lawyers are disbarred and priests are defrocked, then are electricians delighted?", "cycle":1}
+{"source":"basicFile", "event":"When does a joke become a dad joke? When the punch line becomes apparent.", "cycle":1}
+{"source":"basicFile", "event":"I wanted to write an IPv4 joke, but the good ones were all already exhausted.", "cycle":1}
+{"source":"basicFile", "event":"What kind of doctor fixes broken websites? A URLologist.", "cycle":1}
+{"source":"basicFile", "event":"In computing, whats the only way to generate a truly random string? Put a Windows user in front of VI and tell him to quit.", "cycle":1}
+{"source":"basicFile", "event":"I think a lot of linux package handling systems are not good enough for the task. But the one with Ubuntu is apt.", "cycle":1}
+{"source":"basicFile", "event":"Met a guy once who rapped about nothing but Linux systems His name was 50CentOS", "cycle":1}
+{"source":"basicFile", "event":"Why are linux geeks very introvertish ? Because they never get out of their shell", "cycle":1}
+{"source":"basicFile", "event":"What is the object-orientated way to become wealthy? inheritance", "cycle":1}
+{"source":"basicFile", "event":"A programmer had a problem - he decided to use Java, He now has a ProblemFactory", "cycle":1}
+{"source":"basicFile", "event":"if you put a million monkeys on a million keyboards, one of them will eventually write a Java program, The REST will write Perl", "cycle":1}
+{"source":"basicFile", "event":"A server was a man with drinks", "cycle":1}
+{"source":"basicFile", "event":"A Notebook was where you write", "cycle":1}
+{"source":"basicFile", "event":"A click was done with fingers", "cycle":1}
+{"source":"basicFile", "event":"And a reboot means you had a fight", "cycle":1}
+{"source":"basicFile", "event":"Cyberspace was where the spaceships went", "cycle":1}
+{"source":"basicFile", "event":"A screen saver was a cinema's bodyguard", "cycle":1}
+{"source":"basicFile", "event":"Traffic only happened in cars", "cycle":1}
+{"source":"basicFile", "event":"And Spam always had a lot of lard", "cycle":1}
+{"source":"basicFile", "event":"Java was a type of bean", "cycle":1}
+{"source":"basicFile", "event":"Hacking was what an axe-man's job,", "cycle":1}
+{"source":"basicFile", "event":"A platform was where you sang", "cycle":1}
+{"source":"basicFile", "event":"And a volley was a type of lob", "cycle":1}
+{"source":"basicFile", "event":"The Age Before The Computer - devang-gandhi", "cycle":1}
+{"source":"basicFile", "event":"The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.", "cycle":2}
+{"source":"basicFile", "event":"I changed my password to incorrect. So whenever I forget what it is the computer will say Your password is incorrect", "cycle":2}
+{"source":"basicFile", "event":"Question What do you call the security people outside of a Samsung Store? Answer Guardians of the Galaxy", "cycle":2}
+{"source":"basicFile", "event":"Maybe if we start telling people the brain is an app they will start using it.", "cycle":2}
+{"source":"basicFile", "event":"I think my neighbor is stalking me as she has been googling my name on her computer. I saw it through my telescope last night.", "cycle":2}
+{"source":"basicFile", "event":"A clean house is the sign of a broken computer", "cycle":2}
+{"source":"basicFile", "event":"I wonder what my parents did to fight boredom before the internet. I asked my 17 brothers and sisters and they didnt know either.", "cycle":2}
+{"source":"basicFile", "event":"A computer once beat me at chess, but it was no match for me at kick boxing", "cycle":2}
+{"source":"basicFile", "event":"Entered what I ate today into my new fitness app and it just sent an ambulance to my house", "cycle":2}
+{"source":"basicFile", "event":"My mom said that if I dont get off my computer and do my homework shell slam my head on the keyboard, but I think shes jokinfjreoiwjrtwe4to8rkljreun8f4ny84c8y4t58lym4wthylmhawt4mylt4amlathnatyn", "cycle":2}
+{"source":"basicFile", "event":"My email password has been hacked. Thats the third time Ive had to rename my pet", "cycle":2}
+{"source":"basicFile", "event":"Remember the time when emojis were called hieroglyphics?", "cycle":2}
+{"source":"basicFile", "event":"Writing a horror screenplay. It starts off with a ringing phone. The person answers, and its their mum saying I have a computer question.", "cycle":2}
+{"source":"basicFile", "event":"The first time I got a universal remote control, I thought to myself This changes everything", "cycle":2}
+{"source":"basicFile", "event":"Is your name Wi-Fi? Because Im feeling a connection", "cycle":2}
+{"source":"basicFile", "event":"Google is definitely a woman, it starts suggesting things before you can even finish your sentence", "cycle":2}
+{"source":"basicFile", "event":"I tried to escape the Apple store. I couldnt because there were no Windows", "cycle":2}
+{"source":"basicFile", "event":"My computers got Miley Virus. It has stopped twerking.", "cycle":2}
+{"source":"basicFile", "event":"Failure is not an option - it comes bundled with the software.", "cycle":2}
+{"source":"basicFile", "event":"If Bill Gates had a penny for every time I had to reboot my computer ...oh wait, he does.", "cycle":2}
+{"source":"basicFile", "event":"Give a Nigerian a fish hell eat for a day. Teach a Nigerian to phish and hell become a prince and start e-mailing people.", "cycle":2}
+{"source":"basicFile", "event":"I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.", "cycle":2}
+{"source":"basicFile", "event":"I Googled how to start a wildfire. I got 48,500 matches.", "cycle":2}
+{"source":"basicFile", "event":"Cats spend two thirds of their lives sleeping, and the other third making viral videos.", "cycle":2}
+{"source":"basicFile", "event":"Yesterday I decided to change my WiFi name to Hack me if you can and when I woke up this morning I saw the name changed to Challenge accepted somebody help.", "cycle":2}
+{"source":"basicFile", "event":"My ex and I had a very amicable divorce. I know this because when I wrote the Facebook status Im getting a divorce, he was the first one to click Like.", "cycle":2}
+{"source":"basicFile", "event":"Youd think that with NSA reading our tweets all the time, they could star or retweet some of the good ones.", "cycle":2}
+{"source":"basicFile", "event":"If a dog was a computer, would its bark be bigger than its byte?", "cycle":2}
+{"source":"basicFile", "event":"I never ask my kids to call me, I just change the Netflix password and then dont respond to their texts.", "cycle":2}
+{"source":"basicFile", "event":"Apple should make a sarcasm font and call it the iRoll.", "cycle":2}
+{"source":"basicFile", "event":"I was going to be a computer forensics expert, but couldnt hack IT.", "cycle":2}
+{"source":"basicFile", "event":"Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.", "cycle":2}
+{"source":"basicFile", "event":"What is an astronauts favorite place on a computer? The Space bar!", "cycle":2}
+{"source":"basicFile", "event":"What happens when a Buddhist becomes totally absorbed with the computer he is working with? He enters Nerdvana.", "cycle":2}
+{"source":"basicFile", "event":"Wikepedia: I know everything Facebook: I know everyone Google: I have everything Internet: You would be nothing without me Electricity: Keep talking bitches!", "cycle":2}
+{"source":"basicFile", "event":"Heres a picture of me with REM. Thats me in the corner", "cycle":2}
+{"source":"basicFile", "event":"My mother told me, you dont have to put anything in your mouth you dont want to. Then she made me eat broccoli, which felt like double standards", "cycle":2}
+{"source":"basicFile", "event":"Four fonts walk into a bar. The barman says: Oi - get out. We dont want your type in here", "cycle":2}
+{"source":"basicFile", "event":"I went to buy camouflage trousers but I couldnt find any", "cycle":2}
+{"source":"basicFile", "event":"Im on a whisky diet. Ive lost three days already.", "cycle":2}
+{"source":"basicFile", "event":"Im a big fan of whiteboards. I find them quite re-markable.", "cycle":2}
+{"source":"basicFile", "event":"Im reading a horror story in Braille. Something bad is about to happen I can feel it.", "cycle":2}
+{"source":"basicFile", "event":"Did you hear about the kidnapping at school? Its okay. He woke up.", "cycle":2}
+{"source":"basicFile", "event":"What do you call a pig that knows karate? A pork chop!", "cycle":2}
+{"source":"basicFile", "event":"The problem isnt that obesity runs in your family. The problem is no one runs in your family", "cycle":2}
+{"source":"basicFile", "event":"I tried to change my password to penis but they said it was too short.", "cycle":2}
+{"source":"basicFile", "event":"The problem with kleptomaniacs is that they always take things literally", "cycle":2}
+{"source":"basicFile", "event":"I realised I was dyslexic when I went to a toga party dressed as a goat", "cycle":2}
+{"source":"basicFile", "event":"A dyslexic man walks into a bra", "cycle":2}
+{"source":"basicFile", "event":"The truth is out there. Anybody got the URL", "cycle":2}
+{"source":"basicFile", "event":"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity", "cycle":2}
+{"source":"basicFile", "event":"Unix is user friendly. Its just selective about who its friends are", "cycle":2}
+{"source":"basicFile", "event":"My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep", "cycle":2}
+{"source":"basicFile", "event":"My software never has bugs. It just develops random features.", "cycle":2}
+{"source":"basicFile", "event":"I would love to change the world, but they wont give me the source code.", "cycle":2}
+{"source":"basicFile", "event":"Beware of programmers that carry screwdrivers.", "cycle":2}
+{"source":"basicFile", "event":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.", "cycle":2}
+{"source":"basicFile", "event":"The beginning of the programmers wisdom is understanding the difference between getting program to run and having a runnable program.", "cycle":2}
+{"source":"basicFile", "event":"If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.", "cycle":2}
+{"source":"basicFile", "event":"Black holes are where God divided by zero.", "cycle":2}
+{"source":"basicFile", "event":"If brute force doesnt solve your problems, then you arent using enough.", "cycle":2}
+{"source":"basicFile", "event":"There are three kinds of people: those who can count and those who cant.", "cycle":2}
+{"source":"basicFile", "event":"Romantic relationships can actually be represented in algebra. You for example, have definitely at some point looked at your X and asked yourself Y.", "cycle":2}
+{"source":"basicFile", "event":"My iPod is in Titanic mode right now. It is syncing.", "cycle":2}
+{"source":"basicFile", "event":"A programmer gets shopping instructions from his wife: Go buy a cauliflower. If they have oranges, get two dozens. He comes home with 24 cauliflowers.", "cycle":2}
+{"source":"basicFile", "event":"How can you tell a programmer is an extrovert? When youre talking to him, hes looking at your shoes.", "cycle":2}
+{"source":"basicFile", "event":"College is really just kidnapping done backwards. If you dont give us a ridiculously large amount of money, well send you your child back.", "cycle":2}
+{"source":"basicFile", "event":"An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?", "cycle":2}
+{"source":"basicFile", "event":"A cop pulls over Werner Heisenberg and says, Sir, do you know how fast you were going? Heisenberg responds, NO, but I know EXACTLY where I am.", "cycle":2}
+{"source":"basicFile", "event":"I just got fired from my job at the keyboard factory. They told me I wasnt putting in enough shifts.", "cycle":2}
+{"source":"basicFile", "event":"Have you heard of that new band 1023 Megabytes? Theyre pretty good, but they dont have a gig just yet.", "cycle":2}
+{"source":"basicFile", "event":"Question Why did the computer show up at work late? Answer It had a ?hard drive.", "cycle":2}
+{"source":"basicFile", "event":"I saw a driver texting and driving. It made me so mad I threw my beer at him.", "cycle":2}
+{"source":"basicFile", "event":"The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.", "cycle":2}
+{"source":"basicFile", "event":"I started a band called 999 megabytes we still havent gotten a gig", "cycle":2}
+{"source":"basicFile", "event":"I saw a sign that said watch for children and I thought, That sounds like a fair trade", "cycle":2}
+{"source":"basicFile", "event":"A photon walks into a hotel. The bellhop asks if he needs help with his bags. The photon replies, No thanks, Im travelling light.", "cycle":2}
+{"source":"basicFile", "event":"Its hard to explain puns to kleptomaniacs because they always take things literally.", "cycle":2}
+{"source":"basicFile", "event":"I asked my North Korean friend how it was there, he said he couldnt complain.", "cycle":2}
+{"source":"basicFile", "event":"Parallel lines have so much in common but its a shame theyll never meet.", "cycle":2}
+{"source":"basicFile", "event":"How did we know communism was doomed from the beginning? All the red flags.", "cycle":2}
+{"source":"basicFile", "event":"I would tell you a joke about UDP, but you might not get it.", "cycle":2}
+{"source":"basicFile", "event":"Im going to keep telling you this TCP joke until you get it.", "cycle":2}
+{"source":"basicFile", "event":"Alcoholics dont run in my family - they mostly stumble around and bump into things.", "cycle":2}
+{"source":"basicFile", "event":"A bipartisan bill legalizing medical marijuana for use in alleviating symptoms of arthritis would be joint support for joint support for joint support.", "cycle":2}
+{"source":"basicFile", "event":"I heard that Amazons offering a service that crowdsources teaching how to dance, and theyre calling it Mechanical Twerk.", "cycle":2}
+{"source":"basicFile", "event":"When the two musicians got an apartment together, they ended up composing a Romance in A Flat.", "cycle":2}
+{"source":"basicFile", "event":"I made a new word up! Its Plagiarism.", "cycle":2}
+{"source":"basicFile", "event":"I for one like roman numerals.", "cycle":2}
+{"source":"basicFile", "event":"Most people are shocked when they find out how incompetent I am as an electrician.", "cycle":2}
+{"source":"basicFile", "event":"If lawyers are disbarred and priests are defrocked, then are electricians delighted?", "cycle":2}
+{"source":"basicFile", "event":"When does a joke become a dad joke? When the punch line becomes apparent.", "cycle":2}
+{"source":"basicFile", "event":"I wanted to write an IPv4 joke, but the good ones were all already exhausted.", "cycle":2}
+{"source":"basicFile", "event":"What kind of doctor fixes broken websites? A URLologist.", "cycle":2}
+{"source":"basicFile", "event":"In computing, whats the only way to generate a truly random string? Put a Windows user in front of VI and tell him to quit.", "cycle":2}
+{"source":"basicFile", "event":"I think a lot of linux package handling systems are not good enough for the task. But the one with Ubuntu is apt.", "cycle":2}
+{"source":"basicFile", "event":"Met a guy once who rapped about nothing but Linux systems His name was 50CentOS", "cycle":2}
+{"source":"basicFile", "event":"Why are linux geeks very introvertish ? Because they never get out of their shell", "cycle":2}
+{"source":"basicFile", "event":"What is the object-orientated way to become wealthy? inheritance", "cycle":2}
+{"source":"basicFile", "event":"A programmer had a problem - he decided to use Java, He now has a ProblemFactory", "cycle":2}
+{"source":"basicFile", "event":"if you put a million monkeys on a million keyboards, one of them will eventually write a Java program, The REST will write Perl", "cycle":2}
+{"source":"basicFile", "event":"A server was a man with drinks", "cycle":2}
+{"source":"basicFile", "event":"A Notebook was where you write", "cycle":2}
+{"source":"basicFile", "event":"A click was done with fingers", "cycle":2}
+{"source":"basicFile", "event":"And a reboot means you had a fight", "cycle":2}
+{"source":"basicFile", "event":"Cyberspace was where the spaceships went", "cycle":2}
+{"source":"basicFile", "event":"A screen saver was a cinema's bodyguard", "cycle":2}
+{"source":"basicFile", "event":"Traffic only happened in cars", "cycle":2}
+{"source":"basicFile", "event":"And Spam always had a lot of lard", "cycle":2}
+{"source":"basicFile", "event":"Java was a type of bean", "cycle":2}
+{"source":"basicFile", "event":"Hacking was what an axe-man's job,", "cycle":2}
+{"source":"basicFile", "event":"A platform was where you sang", "cycle":2}
+{"source":"basicFile", "event":"And a volley was a type of lob", "cycle":2}
+{"source":"basicFile", "event":"The Age Before The Computer - devang-gandhi", "cycle":2}
+{"source":"basicFile", "event":"The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.", "cycle":3}
+{"source":"basicFile", "event":"I changed my password to incorrect. So whenever I forget what it is the computer will say Your password is incorrect", "cycle":3}
+{"source":"basicFile", "event":"Question What do you call the security people outside of a Samsung Store? Answer Guardians of the Galaxy", "cycle":3}
+{"source":"basicFile", "event":"Maybe if we start telling people the brain is an app they will start using it.", "cycle":3}
+{"source":"basicFile", "event":"I think my neighbor is stalking me as she has been googling my name on her computer. I saw it through my telescope last night.", "cycle":3}
+{"source":"basicFile", "event":"A clean house is the sign of a broken computer", "cycle":3}
+{"source":"basicFile", "event":"I wonder what my parents did to fight boredom before the internet. I asked my 17 brothers and sisters and they didnt know either.", "cycle":3}
+{"source":"basicFile", "event":"A computer once beat me at chess, but it was no match for me at kick boxing", "cycle":3}
+{"source":"basicFile", "event":"Entered what I ate today into my new fitness app and it just sent an ambulance to my house", "cycle":3}
+{"source":"basicFile", "event":"My mom said that if I dont get off my computer and do my homework shell slam my head on the keyboard, but I think shes jokinfjreoiwjrtwe4to8rkljreun8f4ny84c8y4t58lym4wthylmhawt4mylt4amlathnatyn", "cycle":3}
+{"source":"basicFile", "event":"My email password has been hacked. Thats the third time Ive had to rename my pet", "cycle":3}
+{"source":"basicFile", "event":"Remember the time when emojis were called hieroglyphics?", "cycle":3}
+{"source":"basicFile", "event":"Writing a horror screenplay. It starts off with a ringing phone. The person answers, and its their mum saying I have a computer question.", "cycle":3}
+{"source":"basicFile", "event":"The first time I got a universal remote control, I thought to myself This changes everything", "cycle":3}
+{"source":"basicFile", "event":"Is your name Wi-Fi? Because Im feeling a connection", "cycle":3}
+{"source":"basicFile", "event":"Google is definitely a woman, it starts suggesting things before you can even finish your sentence", "cycle":3}
+{"source":"basicFile", "event":"I tried to escape the Apple store. I couldnt because there were no Windows", "cycle":3}
+{"source":"basicFile", "event":"My computers got Miley Virus. It has stopped twerking.", "cycle":3}
+{"source":"basicFile", "event":"Failure is not an option - it comes bundled with the software.", "cycle":3}
+{"source":"basicFile", "event":"If Bill Gates had a penny for every time I had to reboot my computer ...oh wait, he does.", "cycle":3}
+{"source":"basicFile", "event":"Give a Nigerian a fish hell eat for a day. Teach a Nigerian to phish and hell become a prince and start e-mailing people.", "cycle":3}
+{"source":"basicFile", "event":"I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.", "cycle":3}
+{"source":"basicFile", "event":"I Googled how to start a wildfire. I got 48,500 matches.", "cycle":3}
+{"source":"basicFile", "event":"Cats spend two thirds of their lives sleeping, and the other third making viral videos.", "cycle":3}
+{"source":"basicFile", "event":"Yesterday I decided to change my WiFi name to Hack me if you can and when I woke up this morning I saw the name changed to Challenge accepted somebody help.", "cycle":3}
+{"source":"basicFile", "event":"My ex and I had a very amicable divorce. I know this because when I wrote the Facebook status Im getting a divorce, he was the first one to click Like.", "cycle":3}
+{"source":"basicFile", "event":"Youd think that with NSA reading our tweets all the time, they could star or retweet some of the good ones.", "cycle":3}
+{"source":"basicFile", "event":"If a dog was a computer, would its bark be bigger than its byte?", "cycle":3}
+{"source":"basicFile", "event":"I never ask my kids to call me, I just change the Netflix password and then dont respond to their texts.", "cycle":3}
+{"source":"basicFile", "event":"Apple should make a sarcasm font and call it the iRoll.", "cycle":3}
+{"source":"basicFile", "event":"I was going to be a computer forensics expert, but couldnt hack IT.", "cycle":3}
+{"source":"basicFile", "event":"Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.", "cycle":3}
+{"source":"basicFile", "event":"What is an astronauts favorite place on a computer? The Space bar!", "cycle":3}
+{"source":"basicFile", "event":"What happens when a Buddhist becomes totally absorbed with the computer he is working with? He enters Nerdvana.", "cycle":3}
+{"source":"basicFile", "event":"Wikepedia: I know everything Facebook: I know everyone Google: I have everything Internet: You would be nothing without me Electricity: Keep talking bitches!", "cycle":3}
+{"source":"basicFile", "event":"Heres a picture of me with REM. Thats me in the corner", "cycle":3}
+{"source":"basicFile", "event":"My mother told me, you dont have to put anything in your mouth you dont want to. Then she made me eat broccoli, which felt like double standards", "cycle":3}
+{"source":"basicFile", "event":"Four fonts walk into a bar. The barman says: Oi - get out. We dont want your type in here", "cycle":3}
+{"source":"basicFile", "event":"I went to buy camouflage trousers but I couldnt find any", "cycle":3}
+{"source":"basicFile", "event":"Im on a whisky diet. Ive lost three days already.", "cycle":3}
+{"source":"basicFile", "event":"Im a big fan of whiteboards. I find them quite re-markable.", "cycle":3}
+{"source":"basicFile", "event":"Im reading a horror story in Braille. Something bad is about to happen I can feel it.", "cycle":3}
+{"source":"basicFile", "event":"Did you hear about the kidnapping at school? Its okay. He woke up.", "cycle":3}
+{"source":"basicFile", "event":"What do you call a pig that knows karate? A pork chop!", "cycle":3}
+{"source":"basicFile", "event":"The problem isnt that obesity runs in your family. The problem is no one runs in your family", "cycle":3}
+{"source":"basicFile", "event":"I tried to change my password to penis but they said it was too short.", "cycle":3}
+{"source":"basicFile", "event":"The problem with kleptomaniacs is that they always take things literally", "cycle":3}
+{"source":"basicFile", "event":"I realised I was dyslexic when I went to a toga party dressed as a goat", "cycle":3}
+{"source":"basicFile", "event":"A dyslexic man walks into a bra", "cycle":3}
+{"source":"basicFile", "event":"The truth is out there. Anybody got the URL", "cycle":3}
+{"source":"basicFile", "event":"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity", "cycle":3}
+{"source":"basicFile", "event":"Unix is user friendly. Its just selective about who its friends are", "cycle":3}
+{"source":"basicFile", "event":"My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep", "cycle":3}
+{"source":"basicFile", "event":"My software never has bugs. It just develops random features.", "cycle":3}
+{"source":"basicFile", "event":"I would love to change the world, but they wont give me the source code.", "cycle":3}
+{"source":"basicFile", "event":"Beware of programmers that carry screwdrivers.", "cycle":3}
+{"source":"basicFile", "event":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.", "cycle":3}
+{"source":"basicFile", "event":"The beginning of the programmers wisdom is understanding the difference between getting program to run and having a runnable program.", "cycle":3}
+{"source":"basicFile", "event":"If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.", "cycle":3}
+{"source":"basicFile", "event":"Black holes are where God divided by zero.", "cycle":3}
+{"source":"basicFile", "event":"If brute force doesnt solve your problems, then you arent using enough.", "cycle":3}
+{"source":"basicFile", "event":"There are three kinds of people: those who can count and those who cant.", "cycle":3}
+{"source":"basicFile", "event":"Romantic relationships can actually be represented in algebra. You for example, have definitely at some point looked at your X and asked yourself Y.", "cycle":3}
+{"source":"basicFile", "event":"My iPod is in Titanic mode right now. It is syncing.", "cycle":3}
+{"source":"basicFile", "event":"A programmer gets shopping instructions from his wife: Go buy a cauliflower. If they have oranges, get two dozens. He comes home with 24 cauliflowers.", "cycle":3}
+{"source":"basicFile", "event":"How can you tell a programmer is an extrovert? When youre talking to him, hes looking at your shoes.", "cycle":3}
+{"source":"basicFile", "event":"College is really just kidnapping done backwards. If you dont give us a ridiculously large amount of money, well send you your child back.", "cycle":3}
+{"source":"basicFile", "event":"An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?", "cycle":3}
+{"source":"basicFile", "event":"A cop pulls over Werner Heisenberg and says, Sir, do you know how fast you were going? Heisenberg responds, NO, but I know EXACTLY where I am.", "cycle":3}
+{"source":"basicFile", "event":"I just got fired from my job at the keyboard factory. They told me I wasnt putting in enough shifts.", "cycle":3}
+{"source":"basicFile", "event":"Have you heard of that new band 1023 Megabytes? Theyre pretty good, but they dont have a gig just yet.", "cycle":3}
+{"source":"basicFile", "event":"Question Why did the computer show up at work late? Answer It had a ?hard drive.", "cycle":3}
+{"source":"basicFile", "event":"I saw a driver texting and driving. It made me so mad I threw my beer at him.", "cycle":3}
+{"source":"basicFile", "event":"The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.", "cycle":3}
+{"source":"basicFile", "event":"I started a band called 999 megabytes we still havent gotten a gig", "cycle":3}
+{"source":"basicFile", "event":"I saw a sign that said watch for children and I thought, That sounds like a fair trade", "cycle":3}
+{"source":"basicFile", "event":"A photon walks into a hotel. The bellhop asks if he needs help with his bags. The photon replies, No thanks, Im travelling light.", "cycle":3}
+{"source":"basicFile", "event":"Its hard to explain puns to kleptomaniacs because they always take things literally.", "cycle":3}
+{"source":"basicFile", "event":"I asked my North Korean friend how it was there, he said he couldnt complain.", "cycle":3}
+{"source":"basicFile", "event":"Parallel lines have so much in common but its a shame theyll never meet.", "cycle":3}
+{"source":"basicFile", "event":"How did we know communism was doomed from the beginning? All the red flags.", "cycle":3}
+{"source":"basicFile", "event":"I would tell you a joke about UDP, but you might not get it.", "cycle":3}
+{"source":"basicFile", "event":"Im going to keep telling you this TCP joke until you get it.", "cycle":3}
+{"source":"basicFile", "event":"Alcoholics dont run in my family - they mostly stumble around and bump into things.", "cycle":3}
+{"source":"basicFile", "event":"A bipartisan bill legalizing medical marijuana for use in alleviating symptoms of arthritis would be joint support for joint support for joint support.", "cycle":3}
+{"source":"basicFile", "event":"I heard that Amazons offering a service that crowdsources teaching how to dance, and theyre calling it Mechanical Twerk.", "cycle":3}
+{"source":"basicFile", "event":"When the two musicians got an apartment together, they ended up composing a Romance in A Flat.", "cycle":3}
+{"source":"basicFile", "event":"I made a new word up! Its Plagiarism.", "cycle":3}
+{"source":"basicFile", "event":"I for one like roman numerals.", "cycle":3}
+{"source":"basicFile", "event":"Most people are shocked when they find out how incompetent I am as an electrician.", "cycle":3}
+{"source":"basicFile", "event":"If lawyers are disbarred and priests are defrocked, then are electricians delighted?", "cycle":3}
+{"source":"basicFile", "event":"When does a joke become a dad joke? When the punch line becomes apparent.", "cycle":3}
+{"source":"basicFile", "event":"I wanted to write an IPv4 joke, but the good ones were all already exhausted.", "cycle":3}
+{"source":"basicFile", "event":"What kind of doctor fixes broken websites? A URLologist.", "cycle":3}
+{"source":"basicFile", "event":"In computing, whats the only way to generate a truly random string? Put a Windows user in front of VI and tell him to quit.", "cycle":3}
+{"source":"basicFile", "event":"I think a lot of linux package handling systems are not good enough for the task. But the one with Ubuntu is apt.", "cycle":3}
+{"source":"basicFile", "event":"Met a guy once who rapped about nothing but Linux systems His name was 50CentOS", "cycle":3}
+{"source":"basicFile", "event":"Why are linux geeks very introvertish ? Because they never get out of their shell", "cycle":3}
+{"source":"basicFile", "event":"What is the object-orientated way to become wealthy? inheritance", "cycle":3}
+{"source":"basicFile", "event":"A programmer had a problem - he decided to use Java, He now has a ProblemFactory", "cycle":3}
+{"source":"basicFile", "event":"if you put a million monkeys on a million keyboards, one of them will eventually write a Java program, The REST will write Perl", "cycle":3}
+{"source":"basicFile", "event":"A server was a man with drinks", "cycle":3}
+{"source":"basicFile", "event":"A Notebook was where you write", "cycle":3}
+{"source":"basicFile", "event":"A click was done with fingers", "cycle":3}
+{"source":"basicFile", "event":"And a reboot means you had a fight", "cycle":3}
+{"source":"basicFile", "event":"Cyberspace was where the spaceships went", "cycle":3}
+{"source":"basicFile", "event":"A screen saver was a cinema's bodyguard", "cycle":3}
+{"source":"basicFile", "event":"Traffic only happened in cars", "cycle":3}
+{"source":"basicFile", "event":"And Spam always had a lot of lard", "cycle":3}
+{"source":"basicFile", "event":"Java was a type of bean", "cycle":3}
+{"source":"basicFile", "event":"Hacking was what an axe-man's job,", "cycle":3}
+{"source":"basicFile", "event":"A platform was where you sang", "cycle":3}
+{"source":"basicFile", "event":"And a volley was a type of lob", "cycle":3}
+{"source":"basicFile", "event":"The Age Before The Computer - devang-gandhi", "cycle":3}
+{"source":"basicFile", "event":"The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.", "cycle":4}
+{"source":"basicFile", "event":"I changed my password to incorrect. So whenever I forget what it is the computer will say Your password is incorrect", "cycle":4}
+{"source":"basicFile", "event":"Question What do you call the security people outside of a Samsung Store? Answer Guardians of the Galaxy", "cycle":4}
+{"source":"basicFile", "event":"Maybe if we start telling people the brain is an app they will start using it.", "cycle":4}
+{"source":"basicFile", "event":"I think my neighbor is stalking me as she has been googling my name on her computer. I saw it through my telescope last night.", "cycle":4}
+{"source":"basicFile", "event":"A clean house is the sign of a broken computer", "cycle":4}
+{"source":"basicFile", "event":"I wonder what my parents did to fight boredom before the internet. I asked my 17 brothers and sisters and they didnt know either.", "cycle":4}
+{"source":"basicFile", "event":"A computer once beat me at chess, but it was no match for me at kick boxing", "cycle":4}
+{"source":"basicFile", "event":"Entered what I ate today into my new fitness app and it just sent an ambulance to my house", "cycle":4}
+{"source":"basicFile", "event":"My mom said that if I dont get off my computer and do my homework shell slam my head on the keyboard, but I think shes jokinfjreoiwjrtwe4to8rkljreun8f4ny84c8y4t58lym4wthylmhawt4mylt4amlathnatyn", "cycle":4}
+{"source":"basicFile", "event":"My email password has been hacked. Thats the third time Ive had to rename my pet", "cycle":4}
+{"source":"basicFile", "event":"Remember the time when emojis were called hieroglyphics?", "cycle":4}
+{"source":"basicFile", "event":"Writing a horror screenplay. It starts off with a ringing phone. The person answers, and its their mum saying I have a computer question.", "cycle":4}
+{"source":"basicFile", "event":"The first time I got a universal remote control, I thought to myself This changes everything", "cycle":4}
+{"source":"basicFile", "event":"Is your name Wi-Fi? Because Im feeling a connection", "cycle":4}
+{"source":"basicFile", "event":"Google is definitely a woman, it starts suggesting things before you can even finish your sentence", "cycle":4}
+{"source":"basicFile", "event":"I tried to escape the Apple store. I couldnt because there were no Windows", "cycle":4}
+{"source":"basicFile", "event":"My computers got Miley Virus. It has stopped twerking.", "cycle":4}
+{"source":"basicFile", "event":"Failure is not an option - it comes bundled with the software.", "cycle":4}
+{"source":"basicFile", "event":"If Bill Gates had a penny for every time I had to reboot my computer ...oh wait, he does.", "cycle":4}
+{"source":"basicFile", "event":"Give a Nigerian a fish hell eat for a day. Teach a Nigerian to phish and hell become a prince and start e-mailing people.", "cycle":4}
+{"source":"basicFile", "event":"I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.", "cycle":4}
+{"source":"basicFile", "event":"I Googled how to start a wildfire. I got 48,500 matches.", "cycle":4}
+{"source":"basicFile", "event":"Cats spend two thirds of their lives sleeping, and the other third making viral videos.", "cycle":4}
+{"source":"basicFile", "event":"Yesterday I decided to change my WiFi name to Hack me if you can and when I woke up this morning I saw the name changed to Challenge accepted somebody help.", "cycle":4}
+{"source":"basicFile", "event":"My ex and I had a very amicable divorce. I know this because when I wrote the Facebook status Im getting a divorce, he was the first one to click Like.", "cycle":4}
+{"source":"basicFile", "event":"Youd think that with NSA reading our tweets all the time, they could star or retweet some of the good ones.", "cycle":4}
+{"source":"basicFile", "event":"If a dog was a computer, would its bark be bigger than its byte?", "cycle":4}
+{"source":"basicFile", "event":"I never ask my kids to call me, I just change the Netflix password and then dont respond to their texts.", "cycle":4}
+{"source":"basicFile", "event":"Apple should make a sarcasm font and call it the iRoll.", "cycle":4}
+{"source":"basicFile", "event":"I was going to be a computer forensics expert, but couldnt hack IT.", "cycle":4}
+{"source":"basicFile", "event":"Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.", "cycle":4}
+{"source":"basicFile", "event":"What is an astronauts favorite place on a computer? The Space bar!", "cycle":4}
+{"source":"basicFile", "event":"What happens when a Buddhist becomes totally absorbed with the computer he is working with? He enters Nerdvana.", "cycle":4}
+{"source":"basicFile", "event":"Wikepedia: I know everything Facebook: I know everyone Google: I have everything Internet: You would be nothing without me Electricity: Keep talking bitches!", "cycle":4}
+{"source":"basicFile", "event":"Heres a picture of me with REM. Thats me in the corner", "cycle":4}
+{"source":"basicFile", "event":"My mother told me, you dont have to put anything in your mouth you dont want to. Then she made me eat broccoli, which felt like double standards", "cycle":4}
+{"source":"basicFile", "event":"Four fonts walk into a bar. The barman says: Oi - get out. We dont want your type in here", "cycle":4}
+{"source":"basicFile", "event":"I went to buy camouflage trousers but I couldnt find any", "cycle":4}
+{"source":"basicFile", "event":"Im on a whisky diet. Ive lost three days already.", "cycle":4}
+{"source":"basicFile", "event":"Im a big fan of whiteboards. I find them quite re-markable.", "cycle":4}
+{"source":"basicFile", "event":"Im reading a horror story in Braille. Something bad is about to happen I can feel it.", "cycle":4}
+{"source":"basicFile", "event":"Did you hear about the kidnapping at school? Its okay. He woke up.", "cycle":4}
+{"source":"basicFile", "event":"What do you call a pig that knows karate? A pork chop!", "cycle":4}
+{"source":"basicFile", "event":"The problem isnt that obesity runs in your family. The problem is no one runs in your family", "cycle":4}
+{"source":"basicFile", "event":"I tried to change my password to penis but they said it was too short.", "cycle":4}
+{"source":"basicFile", "event":"The problem with kleptomaniacs is that they always take things literally", "cycle":4}
+{"source":"basicFile", "event":"I realised I was dyslexic when I went to a toga party dressed as a goat", "cycle":4}
+{"source":"basicFile", "event":"A dyslexic man walks into a bra", "cycle":4}
+{"source":"basicFile", "event":"The truth is out there. Anybody got the URL", "cycle":4}
+{"source":"basicFile", "event":"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity", "cycle":4}
+{"source":"basicFile", "event":"Unix is user friendly. Its just selective about who its friends are", "cycle":4}
+{"source":"basicFile", "event":"My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep", "cycle":4}
+{"source":"basicFile", "event":"My software never has bugs. It just develops random features.", "cycle":4}
+{"source":"basicFile", "event":"I would love to change the world, but they wont give me the source code.", "cycle":4}
+{"source":"basicFile", "event":"Beware of programmers that carry screwdrivers.", "cycle":4}
+{"source":"basicFile", "event":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.", "cycle":4}
+{"source":"basicFile", "event":"The beginning of the programmers wisdom is understanding the difference between getting program to run and having a runnable program.", "cycle":4}
+{"source":"basicFile", "event":"If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.", "cycle":4}
+{"source":"basicFile", "event":"Black holes are where God divided by zero.", "cycle":4}
+{"source":"basicFile", "event":"If brute force doesnt solve your problems, then you arent using enough.", "cycle":4}
+{"source":"basicFile", "event":"There are three kinds of people: those who can count and those who cant.", "cycle":4}
+{"source":"basicFile", "event":"Romantic relationships can actually be represented in algebra. You for example, have definitely at some point looked at your X and asked yourself Y.", "cycle":4}
+{"source":"basicFile", "event":"My iPod is in Titanic mode right now. It is syncing.", "cycle":4}
+{"source":"basicFile", "event":"A programmer gets shopping instructions from his wife: Go buy a cauliflower. If they have oranges, get two dozens. He comes home with 24 cauliflowers.", "cycle":4}
+{"source":"basicFile", "event":"How can you tell a programmer is an extrovert? When youre talking to him, hes looking at your shoes.", "cycle":4}
+{"source":"basicFile", "event":"College is really just kidnapping done backwards. If you dont give us a ridiculously large amount of money, well send you your child back.", "cycle":4}
+{"source":"basicFile", "event":"An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?", "cycle":4}
+{"source":"basicFile", "event":"A cop pulls over Werner Heisenberg and says, Sir, do you know how fast you were going? Heisenberg responds, NO, but I know EXACTLY where I am.", "cycle":4}
+{"source":"basicFile", "event":"I just got fired from my job at the keyboard factory. They told me I wasnt putting in enough shifts.", "cycle":4}
+{"source":"basicFile", "event":"Have you heard of that new band 1023 Megabytes? Theyre pretty good, but they dont have a gig just yet.", "cycle":4}
+{"source":"basicFile", "event":"Question Why did the computer show up at work late? Answer It had a ?hard drive.", "cycle":4}
+{"source":"basicFile", "event":"I saw a driver texting and driving. It made me so mad I threw my beer at him.", "cycle":4}
+{"source":"basicFile", "event":"The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.", "cycle":4}
+{"source":"basicFile", "event":"I started a band called 999 megabytes we still havent gotten a gig", "cycle":4}
+{"source":"basicFile", "event":"I saw a sign that said watch for children and I thought, That sounds like a fair trade", "cycle":4}
+{"source":"basicFile", "event":"A photon walks into a hotel. The bellhop asks if he needs help with his bags. The photon replies, No thanks, Im travelling light.", "cycle":4}
+{"source":"basicFile", "event":"Its hard to explain puns to kleptomaniacs because they always take things literally.", "cycle":4}
+{"source":"basicFile", "event":"I asked my North Korean friend how it was there, he said he couldnt complain.", "cycle":4}
+{"source":"basicFile", "event":"Parallel lines have so much in common but its a shame theyll never meet.", "cycle":4}
+{"source":"basicFile", "event":"How did we know communism was doomed from the beginning? All the red flags.", "cycle":4}
+{"source":"basicFile", "event":"I would tell you a joke about UDP, but you might not get it.", "cycle":4}
+{"source":"basicFile", "event":"Im going to keep telling you this TCP joke until you get it.", "cycle":4}
+{"source":"basicFile", "event":"Alcoholics dont run in my family - they mostly stumble around and bump into things.", "cycle":4}
+{"source":"basicFile", "event":"A bipartisan bill legalizing medical marijuana for use in alleviating symptoms of arthritis would be joint support for joint support for joint support.", "cycle":4}
+{"source":"basicFile", "event":"I heard that Amazons offering a service that crowdsources teaching how to dance, and theyre calling it Mechanical Twerk.", "cycle":4}
+{"source":"basicFile", "event":"When the two musicians got an apartment together, they ended up composing a Romance in A Flat.", "cycle":4}
+{"source":"basicFile", "event":"I made a new word up! Its Plagiarism.", "cycle":4}
+{"source":"basicFile", "event":"I for one like roman numerals.", "cycle":4}
+{"source":"basicFile", "event":"Most people are shocked when they find out how incompetent I am as an electrician.", "cycle":4}
+{"source":"basicFile", "event":"If lawyers are disbarred and priests are defrocked, then are electricians delighted?", "cycle":4}
+{"source":"basicFile", "event":"When does a joke become a dad joke? When the punch line becomes apparent.", "cycle":4}
+{"source":"basicFile", "event":"I wanted to write an IPv4 joke, but the good ones were all already exhausted.", "cycle":4}
+{"source":"basicFile", "event":"What kind of doctor fixes broken websites? A URLologist.", "cycle":4}
+{"source":"basicFile", "event":"In computing, whats the only way to generate a truly random string? Put a Windows user in front of VI and tell him to quit.", "cycle":4}
+{"source":"basicFile", "event":"I think a lot of linux package handling systems are not good enough for the task. But the one with Ubuntu is apt.", "cycle":4}
+{"source":"basicFile", "event":"Met a guy once who rapped about nothing but Linux systems His name was 50CentOS", "cycle":4}
+{"source":"basicFile", "event":"Why are linux geeks very introvertish ? Because they never get out of their shell", "cycle":4}
+{"source":"basicFile", "event":"What is the object-orientated way to become wealthy? inheritance", "cycle":4}
+{"source":"basicFile", "event":"A programmer had a problem - he decided to use Java, He now has a ProblemFactory", "cycle":4}
+{"source":"basicFile", "event":"if you put a million monkeys on a million keyboards, one of them will eventually write a Java program, The REST will write Perl", "cycle":4}
+{"source":"basicFile", "event":"A server was a man with drinks", "cycle":4}
+{"source":"basicFile", "event":"A Notebook was where you write", "cycle":4}
+{"source":"basicFile", "event":"A click was done with fingers", "cycle":4}
+{"source":"basicFile", "event":"And a reboot means you had a fight", "cycle":4}
+{"source":"basicFile", "event":"Cyberspace was where the spaceships went", "cycle":4}
+{"source":"basicFile", "event":"A screen saver was a cinema's bodyguard", "cycle":4}
+{"source":"basicFile", "event":"Traffic only happened in cars", "cycle":4}
+{"source":"basicFile", "event":"And Spam always had a lot of lard", "cycle":4}
+{"source":"basicFile", "event":"Java was a type of bean", "cycle":4}
+{"source":"basicFile", "event":"Hacking was what an axe-man's job,", "cycle":4}
+{"source":"basicFile", "event":"A platform was where you sang", "cycle":4}
+{"source":"basicFile", "event":"And a volley was a type of lob", "cycle":4}
+{"source":"basicFile", "event":"The Age Before The Computer - devang-gandhi", "cycle":4}
+{"source":"basicFile", "event":"The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.", "cycle":5}
+{"source":"basicFile", "event":"I changed my password to incorrect. So whenever I forget what it is the computer will say Your password is incorrect", "cycle":5}
+{"source":"basicFile", "event":"Question What do you call the security people outside of a Samsung Store? Answer Guardians of the Galaxy", "cycle":5}
+{"source":"basicFile", "event":"Maybe if we start telling people the brain is an app they will start using it.", "cycle":5}
+{"source":"basicFile", "event":"I think my neighbor is stalking me as she has been googling my name on her computer. I saw it through my telescope last night.", "cycle":5}
+{"source":"basicFile", "event":"A clean house is the sign of a broken computer", "cycle":5}
+{"source":"basicFile", "event":"I wonder what my parents did to fight boredom before the internet. I asked my 17 brothers and sisters and they didnt know either.", "cycle":5}
+{"source":"basicFile", "event":"A computer once beat me at chess, but it was no match for me at kick boxing", "cycle":5}
+{"source":"basicFile", "event":"Entered what I ate today into my new fitness app and it just sent an ambulance to my house", "cycle":5}
+{"source":"basicFile", "event":"My mom said that if I dont get off my computer and do my homework shell slam my head on the keyboard, but I think shes jokinfjreoiwjrtwe4to8rkljreun8f4ny84c8y4t58lym4wthylmhawt4mylt4amlathnatyn", "cycle":5}
+{"source":"basicFile", "event":"My email password has been hacked. Thats the third time Ive had to rename my pet", "cycle":5}
+{"source":"basicFile", "event":"Remember the time when emojis were called hieroglyphics?", "cycle":5}
+{"source":"basicFile", "event":"Writing a horror screenplay. It starts off with a ringing phone. The person answers, and its their mum saying I have a computer question.", "cycle":5}
+{"source":"basicFile", "event":"The first time I got a universal remote control, I thought to myself This changes everything", "cycle":5}
+{"source":"basicFile", "event":"Is your name Wi-Fi? Because Im feeling a connection", "cycle":5}
+{"source":"basicFile", "event":"Google is definitely a woman, it starts suggesting things before you can even finish your sentence", "cycle":5}
+{"source":"basicFile", "event":"I tried to escape the Apple store. I couldnt because there were no Windows", "cycle":5}
+{"source":"basicFile", "event":"My computers got Miley Virus. It has stopped twerking.", "cycle":5}
+{"source":"basicFile", "event":"Failure is not an option - it comes bundled with the software.", "cycle":5}
+{"source":"basicFile", "event":"If Bill Gates had a penny for every time I had to reboot my computer ...oh wait, he does.", "cycle":5}
+{"source":"basicFile", "event":"Give a Nigerian a fish hell eat for a day. Teach a Nigerian to phish and hell become a prince and start e-mailing people.", "cycle":5}
+{"source":"basicFile", "event":"I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.", "cycle":5}
+{"source":"basicFile", "event":"I Googled how to start a wildfire. I got 48,500 matches.", "cycle":5}
+{"source":"basicFile", "event":"Cats spend two thirds of their lives sleeping, and the other third making viral videos.", "cycle":5}
+{"source":"basicFile", "event":"Yesterday I decided to change my WiFi name to Hack me if you can and when I woke up this morning I saw the name changed to Challenge accepted somebody help.", "cycle":5}
+{"source":"basicFile", "event":"My ex and I had a very amicable divorce. I know this because when I wrote the Facebook status Im getting a divorce, he was the first one to click Like.", "cycle":5}
+{"source":"basicFile", "event":"Youd think that with NSA reading our tweets all the time, they could star or retweet some of the good ones.", "cycle":5}
+{"source":"basicFile", "event":"If a dog was a computer, would its bark be bigger than its byte?", "cycle":5}
+{"source":"basicFile", "event":"I never ask my kids to call me, I just change the Netflix password and then dont respond to their texts.", "cycle":5}
+{"source":"basicFile", "event":"Apple should make a sarcasm font and call it the iRoll.", "cycle":5}
+{"source":"basicFile", "event":"I was going to be a computer forensics expert, but couldnt hack IT.", "cycle":5}
+{"source":"basicFile", "event":"Why do programmers always mix up Halloween and Christmas? Because 31 OCT = 25 DEC.", "cycle":5}
+{"source":"basicFile", "event":"What is an astronauts favorite place on a computer? The Space bar!", "cycle":5}
+{"source":"basicFile", "event":"What happens when a Buddhist becomes totally absorbed with the computer he is working with? He enters Nerdvana.", "cycle":5}
+{"source":"basicFile", "event":"Wikepedia: I know everything Facebook: I know everyone Google: I have everything Internet: You would be nothing without me Electricity: Keep talking bitches!", "cycle":5}
+{"source":"basicFile", "event":"Heres a picture of me with REM. Thats me in the corner", "cycle":5}
+{"source":"basicFile", "event":"My mother told me, you dont have to put anything in your mouth you dont want to. Then she made me eat broccoli, which felt like double standards", "cycle":5}
+{"source":"basicFile", "event":"Four fonts walk into a bar. The barman says: Oi - get out. We dont want your type in here", "cycle":5}
+{"source":"basicFile", "event":"I went to buy camouflage trousers but I couldnt find any", "cycle":5}
+{"source":"basicFile", "event":"Im on a whisky diet. Ive lost three days already.", "cycle":5}
+{"source":"basicFile", "event":"Im a big fan of whiteboards. I find them quite re-markable.", "cycle":5}
+{"source":"basicFile", "event":"Im reading a horror story in Braille. Something bad is about to happen I can feel it.", "cycle":5}
+{"source":"basicFile", "event":"Did you hear about the kidnapping at school? Its okay. He woke up.", "cycle":5}
+{"source":"basicFile", "event":"What do you call a pig that knows karate? A pork chop!", "cycle":5}
+{"source":"basicFile", "event":"The problem isnt that obesity runs in your family. The problem is no one runs in your family", "cycle":5}
+{"source":"basicFile", "event":"I tried to change my password to penis but they said it was too short.", "cycle":5}
+{"source":"basicFile", "event":"The problem with kleptomaniacs is that they always take things literally", "cycle":5}
+{"source":"basicFile", "event":"I realised I was dyslexic when I went to a toga party dressed as a goat", "cycle":5}
+{"source":"basicFile", "event":"A dyslexic man walks into a bra", "cycle":5}
+{"source":"basicFile", "event":"The truth is out there. Anybody got the URL", "cycle":5}
+{"source":"basicFile", "event":"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity", "cycle":5}
+{"source":"basicFile", "event":"Unix is user friendly. Its just selective about who its friends are", "cycle":5}
+{"source":"basicFile", "event":"My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep", "cycle":5}
+{"source":"basicFile", "event":"My software never has bugs. It just develops random features.", "cycle":5}
+{"source":"basicFile", "event":"I would love to change the world, but they wont give me the source code.", "cycle":5}
+{"source":"basicFile", "event":"Beware of programmers that carry screwdrivers.", "cycle":5}
+{"source":"basicFile", "event":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.", "cycle":5}
+{"source":"basicFile", "event":"The beginning of the programmers wisdom is understanding the difference between getting program to run and having a runnable program.", "cycle":5}
+{"source":"basicFile", "event":"If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.", "cycle":5}
+{"source":"basicFile", "event":"Black holes are where God divided by zero.", "cycle":5}
+{"source":"basicFile", "event":"If brute force doesnt solve your problems, then you arent using enough.", "cycle":5}
+{"source":"basicFile", "event":"There are three kinds of people: those who can count and those who cant.", "cycle":5}
+{"source":"basicFile", "event":"Romantic relationships can actually be represented in algebra. You for example, have definitely at some point looked at your X and asked yourself Y.", "cycle":5}
+{"source":"basicFile", "event":"My iPod is in Titanic mode right now. It is syncing.", "cycle":5}
+{"source":"basicFile", "event":"A programmer gets shopping instructions from his wife: Go buy a cauliflower. If they have oranges, get two dozens. He comes home with 24 cauliflowers.", "cycle":5}
+{"source":"basicFile", "event":"How can you tell a programmer is an extrovert? When youre talking to him, hes looking at your shoes.", "cycle":5}
+{"source":"basicFile", "event":"College is really just kidnapping done backwards. If you dont give us a ridiculously large amount of money, well send you your child back.", "cycle":5}
+{"source":"basicFile", "event":"An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?", "cycle":5}
+{"source":"basicFile", "event":"A cop pulls over Werner Heisenberg and says, Sir, do you know how fast you were going? Heisenberg responds, NO, but I know EXACTLY where I am.", "cycle":5}
+{"source":"basicFile", "event":"I just got fired from my job at the keyboard factory. They told me I wasnt putting in enough shifts.", "cycle":5}
+{"source":"basicFile", "event":"Have you heard of that new band 1023 Megabytes? Theyre pretty good, but they dont have a gig just yet.", "cycle":5}
+{"source":"basicFile", "event":"Question Why did the computer show up at work late? Answer It had a ?hard drive.", "cycle":5}
+{"source":"basicFile", "event":"I saw a driver texting and driving. It made me so mad I threw my beer at him.", "cycle":5}
+{"source":"basicFile", "event":"The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.", "cycle":5}
+{"source":"basicFile", "event":"I started a band called 999 megabytes we still havent gotten a gig", "cycle":5}
+{"source":"basicFile", "event":"I saw a sign that said watch for children and I thought, That sounds like a fair trade", "cycle":5}
+{"source":"basicFile", "event":"A photon walks into a hotel. The bellhop asks if he needs help with his bags. The photon replies, No thanks, Im travelling light.", "cycle":5}
+{"source":"basicFile", "event":"Its hard to explain puns to kleptomaniacs because they always take things literally.", "cycle":5}
+{"source":"basicFile", "event":"I asked my North Korean friend how it was there, he said he couldnt complain.", "cycle":5}
+{"source":"basicFile", "event":"Parallel lines have so much in common but its a shame theyll never meet.", "cycle":5}
+{"source":"basicFile", "event":"How did we know communism was doomed from the beginning? All the red flags.", "cycle":5}
+{"source":"basicFile", "event":"I would tell you a joke about UDP, but you might not get it.", "cycle":5}
+{"source":"basicFile", "event":"Im going to keep telling you this TCP joke until you get it.", "cycle":5}
+{"source":"basicFile", "event":"Alcoholics dont run in my family - they mostly stumble around and bump into things.", "cycle":5}
+{"source":"basicFile", "event":"A bipartisan bill legalizing medical marijuana for use in alleviating symptoms of arthritis would be joint support for joint support for joint support.", "cycle":5}
+{"source":"basicFile", "event":"I heard that Amazons offering a service that crowdsources teaching how to dance, and theyre calling it Mechanical Twerk.", "cycle":5}
+{"source":"basicFile", "event":"When the two musicians got an apartment together, they ended up composing a Romance in A Flat.", "cycle":5}
+{"source":"basicFile", "event":"I made a new word up! Its Plagiarism.", "cycle":5}
+{"source":"basicFile", "event":"I for one like roman numerals.", "cycle":5}
+{"source":"basicFile", "event":"Most people are shocked when they find out how incompetent I am as an electrician.", "cycle":5}
+{"source":"basicFile", "event":"If lawyers are disbarred and priests are defrocked, then are electricians delighted?", "cycle":5}
+{"source":"basicFile", "event":"When does a joke become a dad joke? When the punch line becomes apparent.", "cycle":5}
+{"source":"basicFile", "event":"I wanted to write an IPv4 joke, but the good ones were all already exhausted.", "cycle":5}
+{"source":"basicFile", "event":"What kind of doctor fixes broken websites? A URLologist.", "cycle":5}
+{"source":"basicFile", "event":"In computing, whats the only way to generate a truly random string? Put a Windows user in front of VI and tell him to quit.", "cycle":5}
+{"source":"basicFile", "event":"I think a lot of linux package handling systems are not good enough for the task. But the one with Ubuntu is apt.", "cycle":5}
+{"source":"basicFile", "event":"Met a guy once who rapped about nothing but Linux systems His name was 50CentOS", "cycle":5}
+{"source":"basicFile", "event":"Why are linux geeks very introvertish ? Because they never get out of their shell", "cycle":5}
+{"source":"basicFile", "event":"What is the object-orientated way to become wealthy? inheritance", "cycle":5}
+{"source":"basicFile", "event":"A programmer had a problem - he decided to use Java, He now has a ProblemFactory", "cycle":5}
+{"source":"basicFile", "event":"if you put a million monkeys on a million keyboards, one of them will eventually write a Java program, The REST will write Perl", "cycle":5}
+{"source":"basicFile", "event":"A server was a man with drinks", "cycle":5}
+{"source":"basicFile", "event":"A Notebook was where you write", "cycle":5}
+{"source":"basicFile", "event":"A click was done with fingers", "cycle":5}
+{"source":"basicFile", "event":"And a reboot means you had a fight", "cycle":5}
+{"source":"basicFile", "event":"Cyberspace was where the spaceships went", "cycle":5}
+{"source":"basicFile", "event":"A screen saver was a cinema's bodyguard", "cycle":5}
+{"source":"basicFile", "event":"Traffic only happened in cars", "cycle":5}
+{"source":"basicFile", "event":"And Spam always had a lot of lard", "cycle":5}
+{"source":"basicFile", "event":"Java was a type of bean", "cycle":5}
+{"source":"basicFile", "event":"Hacking was what an axe-man's job,", "cycle":5}
+{"source":"basicFile", "event":"A platform was where you sang", "cycle":5}
+{"source":"basicFile", "event":"And a volley was a type of lob", "cycle":5}
+{"source":"basicFile", "event":"The Age Before The Computer - devang-gandhi", "cycle":5}
