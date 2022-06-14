@@ -8,3 +8,6 @@ sdk install groovy
 groovy -version
 git clone https://github.com/mp3monster/LogGenerator
 chmod a+x LogGenerator/*.sh
+sudo yum install -y ruby
+sudo yum install -y rubygems
+sudo dnf install -y ruby-devel
