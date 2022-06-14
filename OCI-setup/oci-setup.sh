@@ -1,6 +1,7 @@
 sudo yum -y install git
 sudo yum install -y jdk1.8
 java -version
+cd ..
 sudo curl -s get.sdkman.io | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk install groovy
