@@ -4,6 +4,9 @@ cd ~
 
 echo 'export SLACK_TOKEN=$1' >> ~/.bashrc
 echo 'export OTHER_NODE=$2' >> ~/.bashrc
+echo 'export demo=~/Demo/' >>~.bashrc
+echo 'export logGenerator=~/LogGenerator-master' >>~.bashrc
+
 source ~.bashrc
 
 sudo apt install -y make gcc
@@ -15,11 +18,13 @@ sudo gem install fluent-plugin-opensearch
 # sudo apt install git
 sudo apt install wget zip
 sudo apt install openjdk-8-jdk
-java -version
+echo java -version
+
 sudo curl -s get.sdkman.io | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk install groovy
-groovy -version
+echo groovy -version
+
 cd ~
 wget https://github.com/mp3monster/LogGenerator/archive/refs/heads/master.zip
 unzip master.zip
@@ -29,3 +34,5 @@ chmod a+x LogGenerator*/*.sh
 wget https://github.com/mp3monster/logging-demos/archive/refs/heads/main.zip
 unzip main.zip
 rm main.zip
+ mv ~/logging-demos-main/* .
+ rm -rf  mv ~/logging-demos-main/
