@@ -11,12 +11,10 @@ source ~.bashrc
 sudo apt update
 sudo apt install -y make gcc
 sudo apt install -y ruby rubygems ruby-dev
-sudo gem install fluentd
-sudo gem install fluent-plugin-slack
-sudo gem install fluent-plugin-opensearch
+sudo gem install fluentd fluent-plugin-slack fluent-plugin-opensearch
 
 # sudo apt install git
-sudo apt install wget zip
+sudo apt install -f wget zip
 sudo apt install -f openjdk-8-jdk
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 java -version
@@ -27,15 +25,22 @@ sdk selfupdate force
 sdk install groovy
 groovy -version
 
+## install the log generator
 cd ~
+rm -rf LogGenerator-master LogGenerator
 wget https://github.com/mp3monster/LogGenerator/archive/refs/heads/master.zip
-unzip master.zip
+unzip -o master.zip
 rm -f master.zip
-rm -rf LogGenerator*/*
-chmod a+x LogGenerator*/*.sh
+mv -f LogGenerator-master LogGenerator
+chmod a+x LogGenerator/*.sh
 
+## install the demo resources
+cd ~
+rm -rf ~/logging-demos-main/  ~/Demo ~/OCI-setup
 wget https://github.com/mp3monster/logging-demos/archive/refs/heads/main.zip
-unzip main.zip
+unzip -o main.zip
 rm main.zip
- mv ~/logging-demos-main/* .
+ mv -f ~/logging-demos-main/* .
  rm -rf ~/logging-demos-main/
+ cd Demo
+ chmod a+x *.sh
