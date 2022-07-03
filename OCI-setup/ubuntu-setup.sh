@@ -30,11 +30,12 @@ groovy -version
 cd ~
 wget https://github.com/mp3monster/LogGenerator/archive/refs/heads/master.zip
 unzip master.zip
-rm master.zip
+rm -f master.zip
+rm -rf LogGenerator*/*
 chmod a+x LogGenerator*/*.sh
 
 wget https://github.com/mp3monster/logging-demos/archive/refs/heads/main.zip
 unzip main.zip
 rm main.zip
  mv ~/logging-demos-main/* .
- rm -rf  mv ~/logging-demos-main/
+ rm -rf ~/logging-demos-main/
