@@ -8,7 +8,7 @@ echo 'export demo=~/Demo/' >>~.bashrc
 echo 'export logGenerator=~/LogGenerator-master' >>~.bashrc
 
 source ~.bashrc
-
+sudo apt update
 sudo apt install -y make gcc
 sudo apt install -y ruby rubygems ruby-dev
 sudo gem install fluentd
@@ -17,13 +17,15 @@ sudo gem install fluent-plugin-opensearch
 
 # sudo apt install git
 sudo apt install wget zip
-sudo apt install openjdk-8-jdk
-echo java -version
+sudo apt install -f openjdk-8-jdk
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+java -version
 
 sudo curl -s get.sdkman.io | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
+sdk selfupdate force
 sdk install groovy
-echo groovy -version
+groovy -version
 
 cd ~
 wget https://github.com/mp3monster/LogGenerator/archive/refs/heads/master.zip
