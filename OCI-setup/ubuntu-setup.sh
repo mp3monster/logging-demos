@@ -1,4 +1,4 @@
-# parameter 1 is the slack token
+# parameter 1 is the slack token  e.g. xoxp-xxxxxx-xxxxxxx-xxxxxxx-xxxxxxxxxx
 # parameter 2 is the IP of the other node in the demo
 cd ~
 
