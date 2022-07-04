@@ -13,7 +13,7 @@ source ~.bashrc
 sudo apt update
 sudo apt install -y make gcc
 sudo apt install -y ruby rubygems ruby-dev
-sudo gem install fluentd fluent-plugin-slack fluent-plugin-opensearch
+sudo gem install fluentd fluent-plugin-slack fluent-plugin-opensearch fluent-plugin-suppress
 
 # sudo apt install git
 sudo apt install -f wget zip
