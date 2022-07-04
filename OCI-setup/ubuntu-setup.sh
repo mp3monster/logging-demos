@@ -1,11 +1,14 @@
 # parameter 1 is the slack token  e.g. xoxp-xxxxxx-xxxxxxx-xxxxxxx-xxxxxxxxxx
 # parameter 2 is the IP of the other node in the demo
+# parameter 3 is the address of the OpenSearch API
 cd ~
 
 echo 'export SLACK_TOKEN=$1' > ~/demo-env.sh
 echo 'export OTHER_NODE=$2' >> ~/demo-env.sh
+echo 'export SEARCH_NODE=$3' >> ~/demo-env.sh
 echo 'export demo=~/Demo/' >> ~/demo-env.sh
 echo 'export logGenerator=~/LogGenerator-master' >> ~/demo-env.sh
+
 echo 'source ~/demo-env.sh' >> ~/.bashrc
 chmod a+x ~/demo-env.sh
 
