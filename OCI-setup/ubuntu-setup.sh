@@ -33,7 +33,6 @@ rm -rf LogGenerator-master LogGenerator
 wget https://github.com/mp3monster/LogGenerator/archive/refs/heads/master.zip
 unzip -o master.zip
 rm -f master.zip
-mv -f LogGenerator-master LogGenerator
 chmod a+x LogGenerator/*.sh
 
 ## install the demo resources
@@ -42,8 +41,9 @@ rm -rf ~/logging-demos-main/  ~/Demo ~/OCI-setup
 wget https://github.com/mp3monster/logging-demos/archive/refs/heads/main.zip
 unzip -o main.zip
 rm main.zip
- mv -f ~/logging-demos-main/* .
- rm -rf ~/logging-demos-main/
- rm -ef *.bat
- cd Demo
- chmod a+x *.sh
+mv -f ~/logging-demos-main/* .
+rm -rf ~/logging-demos-main/
+cd Demo
+rm -rf *.bat
+rm -rf screenshots
+chmod a+x *.sh
