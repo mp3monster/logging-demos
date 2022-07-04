@@ -44,5 +44,6 @@ unzip -o main.zip
 rm main.zip
  mv -f ~/logging-demos-main/* .
  rm -rf ~/logging-demos-main/
+ rm -ef *.bat
  cd Demo
  chmod a+x *.sh
