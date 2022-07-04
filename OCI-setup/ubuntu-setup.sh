@@ -2,10 +2,12 @@
 # parameter 2 is the IP of the other node in the demo
 cd ~
 
-echo 'export SLACK_TOKEN=$1' >> ~/.bashrc
-echo 'export OTHER_NODE=$2' >> ~/.bashrc
-echo 'export demo=~/Demo/' >>~.bashrc
-echo 'export logGenerator=~/LogGenerator-master' >>~.bashrc
+echo 'export SLACK_TOKEN=$1' > ~/demo-env.sh
+echo 'export OTHER_NODE=$2' >> ~/demo-env.sh
+echo 'export demo=~/Demo/' >> ~/demo-env.sh
+echo 'export logGenerator=~/LogGenerator-master' >> ~/demo-env.sh
+echo 'source ~/demo-env.sh' >> ~/.bashrc
+chmod a+x ~/demo-env.sh
 
 source ~.bashrc
 sudo apt update
