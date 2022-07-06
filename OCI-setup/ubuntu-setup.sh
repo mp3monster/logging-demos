@@ -1,11 +1,14 @@
 # parameter 1 is the slack token  e.g. xoxp-xxxxxx-xxxxxxx-xxxxxxx-xxxxxxxxxx
 # parameter 2 is the IP of the other node in the demo
 # parameter 3 is the address of the OpenSearch API
+# parameter 4 name of the OCI Tenancy
+# either call using these parameters of after running the script edit demo-env.sh manually to set the values
 cd ~
 
 echo 'export SLACK_TOKEN=$1' > ~/demo-env.sh
 echo 'export OTHER_NODE=$2' >> ~/demo-env.sh
 echo 'export SEARCH_NODE=$3' >> ~/demo-env.sh
+echo 'export OCI_NAMESPACE=$4' >> ~/demo-env.sh
 echo 'export demo=~/Demo/' >> ~/demo-env.sh
 echo 'export logGenerator=~/LogGenerator-master' >> ~/demo-env.sh
 
@@ -16,7 +19,7 @@ source ~.bashrc
 sudo apt update
 sudo apt install -y make gcc
 sudo apt install -y ruby rubygems ruby-dev
-sudo gem install fluentd fluent-plugin-slack fluent-plugin-opensearch fluent-plugin-suppress
+sudo gem install fluentd fluent-plugin-slack fluent-plugin-opensearch fluent-plugin-suppress fluent-plugin-oci-logging-analytics
 
 # sudo apt install git
 sudo apt install -f wget zip
