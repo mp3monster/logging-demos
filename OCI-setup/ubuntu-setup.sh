@@ -63,4 +63,3 @@ cd Demo
 rm -rf *.bat
 rm -rf screenshots
 chmod a+x *.sh
-chmod a+x Demo/*.sh
