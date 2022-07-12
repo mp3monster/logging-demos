@@ -62,3 +62,4 @@ cd Demo
 rm -rf *.bat
 rm -rf screenshots
 chmod a+x *.sh
+mv oci-fluentd.conf ~/oci-fluentd.conf.template
