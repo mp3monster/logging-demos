@@ -21,7 +21,10 @@ echo '# export opensearch_label_inclusion=$demo/fluentd/dummy-inclusion.conf' >>
 echo '# export opensearch_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
 echo '# export oci_logging_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
 
-echo 'source ~/demo-env.sh' >> ~/.bashrc
+echo 'export OCI_LOGFOLDER=$demo/oci-log' >> ~/demo-env.sh
+echo 'export OCI_LOGFOLDER_BUFFER=$demo/oci-log-buffer/' >> ~/demo-env.sh
+echo 'source ~/demo-env.sh' >> ~/.bashrc' >> ~/demo-env.sh
+
 chmod a+x ~/demo-env.sh
 
 source ~.bashrc
@@ -63,3 +66,8 @@ rm -rf *.bat
 rm -rf screenshots
 chmod a+x *.sh
 mv oci-fluentd.conf ~/oci-fluentd.conf.template
+
+mkdir $demo/oci-log
+mkdir $demo/oci-log-buffer
+chmod a+rw  $demo/oci-log
+chmod a+rw  $demo/oci-log-buffer
