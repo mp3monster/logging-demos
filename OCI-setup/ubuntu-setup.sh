@@ -11,15 +11,15 @@ echo 'export SEARCH_NODE=$3' >> ~/demo-env.sh
 echo 'export OCI_NAMESPACE=$4' >> ~/demo-env.sh
 echo 'export demo=~/Demo/' >> ~/demo-env.sh
 echo 'export logGenerator=~/LogGenerator-master' >> ~/demo-env.sh
-echo 'export oci_logging_label_inclusion=$demo$/Fluentd/oci-logging-label-inclusion.conf' >> ~/demo-env.sh
-echo 'export opensearch_label_inclusion=$demo$/Fluentd/oci-opensearch-label-inclusion.conf' >> ~/demo-env.sh
-echo 'export oci_logging_route_inclusion=$demo$/Fluentd/oci-logging-route-inclusion.conf' >> ~/demo-env.sh
-echo 'export opensearch_route_inclusion=$demo$/Fluentd/opensearch-route-inclusion.conf' >> ~/demo-env.sh
+echo 'export oci_logging_label_inclusion=$demo/Fluentd/oci-logging-label-inclusion.conf' >> ~/demo-env.sh
+echo 'export opensearch_label_inclusion=$demo/Fluentd/oci-opensearch-label-inclusion.conf' >> ~/demo-env.sh
+echo 'export oci_logging_route_inclusion=$demo/Fluentd/oci-logging-route-inclusion.conf' >> ~/demo-env.sh
+echo 'export opensearch_route_inclusion=$demo/Fluentd/opensearch-route-inclusion.conf' >> ~/demo-env.sh
 echo ' ' >> ~/demo-env.sh
-echo '# export oci_logging_label_inclusion=$demo$/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
-echo '# export opensearch_label_inclusion=$demo$/fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
-echo '# export opensearch_route_inclusion=$demo$/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
-echo '# export oci_logging_route_inclusion=$demo$/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
+echo '# export oci_logging_label_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
+echo '# export opensearch_label_inclusion=$demo/fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
+echo '# export opensearch_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
+echo '# export oci_logging_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
 
 echo 'source ~/demo-env.sh' >> ~/.bashrc
 chmod a+x ~/demo-env.sh
