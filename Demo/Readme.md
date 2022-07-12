@@ -34,7 +34,7 @@ The Slack token will need to be checked / updated.
 | setLocations.bat   |             |
 | /Demo              |             |
 | /Fluentd           |             |
-| /Fluentd/oci-fluentd.conf | [Description of the config file] (https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm#SDK_and_CLI_Configuration_File)            |
+| /Fluentd/oci-fluentd.conf | [Description of the config file values](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm#SDK_and_CLI_Configuration_File)            |
 | /SimulatorConfig   |             |
 | /TestData          |             |
 
