@@ -21,6 +21,10 @@ echo '# export opensearch_label_inclusion=$demo/fluentd/dummy-inclusion.conf' >>
 echo '# export opensearch_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
 echo '# export oci_logging_route_inclusion=$demo/Fluentd/dummy-inclusion.conf' >> ~/demo-env.sh
 
+echo '# export LOGGING_ANALYTICS_ENTITY_OCID=ocid1.loganalyticsentity.oc1.iad.amaaaaaanlc5nbyadoayqmdqmtgjkztjpoj6wbuvu4l2air7h54lyor67q3q' >> ~/demo-env.sh
+echo '# export LOGGING_ANALYTICS_ENTITY_TYPE=Generic System' >> ~/demo-env.sh
+echo '# export LOGGING_ANALYTICS_LOGGROUP_OCID=ocid1.loganalyticsloggroup.oc1.iad.amaaaaaanlc5nbyand4wliozrxbvqamhncpuzq7g7qfxt7bjmagkach5np7a' >> ~/demo-env.sh
+
 echo 'export OCI_LOGFOLDER=$demo/oci-log' >> ~/demo-env.sh
 echo 'export OCI_LOGFOLDER_BUFFER=$demo/oci-log-buffer/' >> ~/demo-env.sh
 echo 'source ~/demo-env.sh' >> ~/.bashrc' >> ~/demo-env.sh
